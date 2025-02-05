@@ -58,7 +58,7 @@
     <br>
     <br>
     <br>
-
+    <br>
     <h6>A sala estava silenciosa, como de costume nos últimos dias de aula, uma constante solidão, um sussurro de algo que se encerrava. Os alunos tendo saído das salas para jogar a tão esperada partida de vôlei na quadra. Ao meu redor as suaves risadas dos meus amigos preenchiam o ambiente como uma canção de ninar calmante, dando sossego a alma. 
     <br> 
      <br>
