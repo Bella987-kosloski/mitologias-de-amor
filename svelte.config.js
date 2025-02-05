@@ -7,6 +7,9 @@ export default {
           fallback: undefined,
           precompress: false,
           strict: true
-      })
+      }),
+      paths: {
+        base: "/mitologias-de-amor"
+      }
   }
 };
