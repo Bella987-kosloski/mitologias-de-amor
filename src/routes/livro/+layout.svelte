@@ -23,7 +23,7 @@
              <a href="/livro/cap05"> O Anjo</a>
             </li>
             <li class="list-group-item">
-                <a href="/lvro/cap06">Bailarino</a>
+                <a href="/livro/cap06">Bailarino</a>
             </li>
             <li class="list-group-item">
               <a href="/livro/cap07"> Mãe</a>

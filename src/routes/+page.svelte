@@ -5,8 +5,8 @@
 <nav>
 	<ul>
 		<li><a href="/">Início</a></li>
-		<li><a href="filmes">filmes</a></li>
-		<li><a href="Livro">Livro</a></li>
+		<li><a href="#">filmes</a></li>
+		<li><a href="/livro">Livro</a></li>
 
 	</ul>
 </nav>
