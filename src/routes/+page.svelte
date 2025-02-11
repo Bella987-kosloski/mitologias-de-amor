@@ -4,9 +4,9 @@
 </header>
 <nav>
 	<ul>
-		<li><a href="/">Início</a></li>
+		<li><a href="/mitologias-de-amor">Início</a></li>
 		<li><a href="#">filmes</a></li>
-		<li><a href="/livro">Livro</a></li>
+		<li><a href="/mitologias-de-amor/livro">Livro</a></li>
 
 	</ul>
 </nav>
