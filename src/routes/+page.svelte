@@ -15,7 +15,7 @@
 
 	<div class="book-list">
 		<div class="book">
-			<img src="#" alt="Mitologias de amor" />
+			<img src="/mitologias-de-amor/fogo.jfif" alt="Mitologias de amor" />
 			<h3>Mitologias De Amor</h3>
 			<p>Por Belle Kosloski</p>
 			<a href="/livro">Leia Mais</a>
